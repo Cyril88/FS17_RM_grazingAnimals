@@ -26,24 +26,22 @@
     </extraSourceFiles>
 
     <l10n>
-        <text name="GA_SAVE_FAILED">
+      <text name="GA_SAVE_FAILED">
             <en>Failed to save settings for grazingAnimals to your savegame.</en>
-            <de>Einstellungen für grazingAnimals konnten nicht in deinem Savegame gespeichert werden.</de>
             <pl>Nie udało się zapisać ustawień grazingAnimals dla twojego zapisu.</pl>
-            <cz>Vaše nastavení se nepodařilo uložit.</cz>
+			<fr>Impossible d'enregistrer les paramètres de grazingAnimals dans votre sauvegarde.</fr>
         </text>
         <text name="GA_COW_PASTURE" >
             <en>Grass in cow pasture: </en>
-            <de>Gras auf der Kuhweide: </de>
             <pl>Trawa na pastwisku krów: </pl>
-            <cz>Tráva na kravské pastvině: </cz>
+			<fr>Herbe dans les pâturages de vaches:</fr>
         </text>
         <text name="GA_SHEEP_PASTURE">
             <en>Grass in sheep pasture: </en>
-            <de>Gras auf der Schafweide: </de>
             <pl>Trawa na pastwisku owiec: </pl>
-            <cz>Tráva na pastvině ovcí: </cz>
+			<fr>Herbe dans les pâturages de moutons:</fr>
         </text>
+
     </l10n>
 
     <storeItems>
